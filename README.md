@@ -6,7 +6,7 @@ The theme of the map being an old abandoned castle with multiple overhangs and p
 Overall its a competetive quake map.
 ## 2D level formats <h2> Map view
  
-### Reference <h3> Map idea origions
+### Reference <h3> Map idea references
   The maps below are points of reference which I took in thinking of my map design.
  
 https://halo.fandom.com/wiki/Lockout
