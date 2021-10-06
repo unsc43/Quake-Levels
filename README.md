@@ -8,6 +8,7 @@ Overall its a competetive quake map.
  
 ### Reference <h3> Map idea origions
   The maps below are points of reference which I took in thinking of my map design.
+ 
 https://halo.fandom.com/wiki/Lockout
  
 https://halo.fandom.com/wiki/Narrows
