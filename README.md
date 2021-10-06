@@ -6,6 +6,8 @@ The theme of the map being an old abandoned castle with multiple overhangs and p
 Overall its a competetive quake map.
 ## 2D level formats <h2> Map view
  
+![Map design](https://user-images.githubusercontent.com/74630988/136122450-941953c1-35da-4b4c-9e8b-dfd8ec3483f0.jpg)
+
 ### Reference <h3> Map idea references
   The maps below are points of reference which I took in thinking of my map design.
  
