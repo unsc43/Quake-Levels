@@ -22,5 +22,4 @@ https://www.halopedia.org/Chill_Out
  
 ### Video on map <h4> Building process
  Video on greymapping and early deisgn process
-  [![YouTube thumbnail] (https://yt-embed.herokuapp.com/embed?v=_TAY-U9eACg)]
-( https://youtu.be/gu7Oj_-j_9g)
+https://www.youtube.com/watch?v=gu7Oj_-j_9g
