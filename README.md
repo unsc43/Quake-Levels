@@ -18,3 +18,9 @@ https://halo.fandom.com/wiki/Narrows
 https://www.halopedia.org/Longest
  
 https://www.halopedia.org/Chill_Out
+
+ 
+### Video on map <h4> Building process
+ Video on greymapping and early deisgn process
+ 
+https://www.youtube.com/watch?v=gu7Oj_-j_9g
