@@ -1,0 +1,25 @@
+# Changes <h1> Before/After Greybox
+
+Additions added -
+Lighting
+Texturing
+Background design
+Weapon placement
+Bug/Map Fixing
+
+Initially a lot of the feedback for the gameplay of the map was cutoff,
+This was due to the walls having missing physic properties for a few areas (all of which were fixed afer the greybox testing)
+from there the theme wasn't too known, Nor was the actual flow of the map the best
+There were issues such as the map being too big for 4 players and areas that cut off and didn't allow free movement
+So how I solved this issue was with how I placed the weapons and additions. Although the map size increased
+Beyond what it was before I added weapons and objects in keypoints that I wanted players to go to, This way players not finding one another
+Wouldn't be as big of an issue while keeping the base design and feel of the map in tact.
+I designed the map for larger groups of players in mind so I wanted to keep that as somehting that stayed.
+
+Details added- - 
+The texturing was abel to help the theme be conveyed to a point
+I furthered it through added a few walls in places which scaled above the actual map walls (All of which are inexcessable to players)
+as well as an overarching tower that looks like it belongs to a castle. This way it didn't intrdude on the initial design
+yet it kept the feel of each area and what I wanted them to represent.
+
+## Screenshots <h2> Map screenshot itterations 
