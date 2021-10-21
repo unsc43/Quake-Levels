@@ -2866,7 +2866,7 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -48 -200"
-"angle" "75"
+"angle" "165"
 }
 // entity 17
 {
