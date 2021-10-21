@@ -3199,12 +3199,12 @@
 // entity 25
 {
 "classname" "item_health"
-"origin" "83 292 -112"
+"origin" "83 292 -224"
 }
 // entity 26
 {
 "classname" "weapon_rocketlauncher"
-"origin" "94 308 -243"
+"origin" "94 308 61"
 }
 // entity 27
 {
