@@ -3204,7 +3204,7 @@
 // entity 26
 {
 "classname" "weapon_rocketlauncher"
-"origin" "94 308 -243"
+"origin" "94 308 -211"
 }
 // entity 27
 {
@@ -7354,5 +7354,5 @@
 // entity 287
 {
 "classname" "weapon_supernailgun"
-"origin" "-544 -1280 48"
+"origin" "-544 -1280 64"
 }
