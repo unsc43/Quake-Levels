@@ -7356,3 +7356,13 @@
 "classname" "weapon_supernailgun"
 "origin" "-544 -1280 64"
 }
+// entity 288
+{
+"classname" "light"
+"origin" "456 280 24"
+}
+// entity 289
+{
+"classname" "light"
+"origin" "-296 280 24"
+}
