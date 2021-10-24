@@ -3427,7 +3427,7 @@
 // entity 26
 {
 "classname" "weapon_nailgun"
-"origin" "-47 1112 95"
+"origin" "-63 1112 95"
 }
 // entity 27
 {
@@ -7286,7 +7286,7 @@
 {
 "classname" "light"
 "origin" "1148 1079 33"
-"style" "11"
+"style" "5"
 }
 // entity 227
 {
@@ -8348,10 +8348,20 @@
 }
 // entity 324
 {
+"classname" "weapon_supershotgun"
+"origin" "48 80 16"
+}
+// entity 325
+{
+"classname" "weapon_supershotgun"
+"origin" "80 432 16"
+}
+// entity 326
+{
 "classname" "weapon_rocketlauncher"
 "origin" "80 304 96"
 }
-// entity 325
+// entity 327
 {
 "classname" "weapon_grenadelauncher"
 "origin" "96 304 -216"
