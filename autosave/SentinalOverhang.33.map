@@ -7044,42 +7044,36 @@
 "classname" "light"
 "origin" "-70 -99 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 222
 {
 "classname" "light"
 "origin" "-70 -467 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 223
 {
 "classname" "light"
 "origin" "-69 -862 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 224
 {
 "classname" "light"
 "origin" "110 -905 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 225
 {
 "classname" "light"
 "origin" "118 -107 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 226
 {
 "classname" "light"
 "origin" "124 -463 24"
 "_color" "173 40 16"
-"style" "2"
 }
 // entity 227
 {
@@ -7403,5 +7397,4 @@
 "classname" "light"
 "origin" "46 -1097 24"
 "_color" "173 40 16"
-"style" "2"
 }
