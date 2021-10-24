@@ -7409,7 +7409,7 @@
 // entity 291
 {
 "classname" "light"
-"origin" "-40 520 232"
+"origin" "40 568 232"
 "_color" "106 95 134"
 }
 // entity 292
