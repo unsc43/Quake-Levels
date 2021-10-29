@@ -17561,42 +17561,42 @@
 // entity 496
 {
 "classname" "light"
-"origin" "1496 -440 136"
+"origin" "1348 -223 136"
 "_color" "106 95 134"
 "light" "250"
 }
 // entity 497
 {
 "classname" "light"
-"origin" "1464 -712 120"
+"origin" "1256 -641 120"
 "_color" "106 95 134"
 "light" "250"
 }
 // entity 498
 {
 "classname" "light"
-"origin" "1224 -1080 120"
+"origin" "1053 -852 120"
 "_color" "106 95 134"
 "light" "250"
 }
 // entity 499
 {
 "classname" "light"
-"origin" "856 -1096 88"
+"origin" "754 -932 88"
 "_color" "106 95 134"
 "light" "250"
 }
 // entity 500
 {
 "classname" "light"
-"origin" "616 -1064 88"
+"origin" "414 -949 88"
 "_color" "106 95 134"
 "light" "250"
 }
 // entity 501
 {
 "classname" "light"
-"origin" "344 -1240 120"
+"origin" "184 -1224 120"
 "_color" "106 95 134"
 "light" "250"
 }
